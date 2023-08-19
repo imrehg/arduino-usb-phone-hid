@@ -10,7 +10,7 @@ Requirements:
 Flash this project on your device, and plug it into your computer to control online
 meetings like Google Meet. You might need to pair the device for the first time.
 
-For more details, see this blogpost: TBC
+For more details, see this blogpost: https://gergely.imreh.net/blog/2023/08/making-a-usb-mute-button-for-online-meetings/
 
 ## License
 
